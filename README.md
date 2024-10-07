@@ -1,4 +1,4 @@
-# The dataset of Ethereum transaction-based phishing
+# The dataset of Ethereum payload-based transaction phishing
 
 This is the repository for paper "Dissecting Payload-based Transaction Phishing on
 Ethereum" accepted to NDSS 2025.
