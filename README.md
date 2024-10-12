@@ -43,10 +43,10 @@ If you use the related dataset or the insights we observed in our paper, please 
 
 ```
 @inproceedings{chen2025dissecting,
-title={Dissecting Payload-based Transaction Phishing on Ethereum},
-author={Chen, Zhuo and Hu, Yufeng and He, Bowen and Luo, Dong and Wu, Lei and Zhou, Yajin},
-booktitle={Network and Distributed Systems Security (NDSS) Symposium},
-year={2025}
+    title={Dissecting Payload-based Transaction Phishing on Ethereum},
+    author={Chen, Zhuo and Hu, Yufeng and He, Bowen and Luo, Dong and Wu, Lei and Zhou, Yajin},
+    booktitle={Network and Distributed Systems Security (NDSS) Symposium},
+    year={2025}
 }
 ```
 
